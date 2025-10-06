@@ -10,10 +10,10 @@
 ## Визуализация проекта  
 
 ### 1️⃣ Аналитика рынка недвижимости  
-![Dashboard Overview](./dashboard_overview.png)  
+![Аналитика рынка недвижимости  ](screenshots/dashboard_real_overview.png)
 
 ### 2️⃣ Детализация рынка и сезонность  
-![Dashboard Details](./dashboard_details.png)  
+![Детализация рынка и сезонность ](screenshots/dashboard_real_details.png)
 
 Проект решает бизнес-задачи: 
 - Определить наиболее привлекательные сегменты недвижимости по сроку активности объявлений.  
